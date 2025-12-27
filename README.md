@@ -1,28 +1,72 @@
-# EXP-6
-EXP No. :6 			CHARACTERISTICS M OF LVDT
-AIM:To measure output voltage w.r.t the displacement of the core on the LVDT kit and
-find the graphical relationship between the two.
+# EXPERIMENT–6  
+## CHARACTERISTICS OF LVDT  
 
-APPARATUS: - LVDT kit, Multimeter
+---
 
-THEORY: - LVDT is basically a mutual inductance type transformer with variable coupling between the primary and two secondary coils. It is equivalent to E.Pick off in its operation except the reluctance of magnetic path is mostly due to air path. Uniformly wound over a certain length of transducer and two identical secondary coil systematically wound on either side of the primary coils and away from center. The iron rod is free to move inside the coil in either direction from the null point when primary coil is excitedly AC supply the induced emf of secondary are equal to each other with the core lying in null position. The secondary are connected in series with but in phase opposition so that resultant output voltage is zero.Displacement of core in either direction from the null position results in output voltage as read by an AC rms voltmeter and it is observed that there is a residual voltage at the null position. Due to capacitance coupling between primary and secondary and the characteristics of a linear over a limited  displacement.
+## AIM  
+To measure the output voltage with respect to the displacement of the core in an LVDT kit and to plot the graphical relationship between displacement and output voltage.
 
-DIAGRAM:
-CIRCUIT DIAGRAM
-PROCEDURE: -
-I. Connect the multimeter at the output of kit..
-2. Set the range to a maximum value of 10 mm.
-3. More the gauge from zero to maximum of 20mm.
-4. Value and note the corresponding values of voltages in the multimeter.
-5. Plot the graph between displacement and voltages on the graph paper.
+---
+
+## APPARATUS  
+- LVDT Kit  
+- Multimeter  
+
+---
+
+## THEORY  
+LVDT (Linear Variable Differential Transformer) is a mutual inductance type transducer used for measuring linear displacement. It consists of one primary coil and two identical secondary coils wound symmetrically on either side of the primary coil.
+
+When the primary coil is excited with an AC supply and the core is at the null position, equal voltages are induced in both secondary coils. These secondary coils are connected in series opposition, resulting in zero output voltage.
+
+When the core moves away from the null position, the induced voltage in one secondary increases while it decreases in the other. This produces a differential output voltage whose magnitude is proportional to the displacement of the core. The relationship between displacement and output voltage is linear over a limited range. A small residual voltage may be present at the null position due to capacitive coupling and practical imperfections.
+
+---
+
+## DIAGRAM  
+- Circuit diagram of LVDT (as given in the laboratory manual)
+<img width="511" height="540" alt="image" src="https://github.com/user-attachments/assets/ad5507f7-8107-416b-abd4-89bfe76e1050" />
 
 
-OBSERVATION TABLE
+---
 
-PRECAUTION: -
-1. The values on the multimeter should be carefully noted.
-2. The core should be set to a maximum value of 20mm.
-3. To get the good performance from the kit, main room temperature.
-4. To check the power supply, it should be 220+!- 10% 50Hz to avoid voltage hazard.
+## PROCEDURE  
+1. Connect the multimeter to the output terminals of the LVDT kit.  
+2. Set the displacement range to a maximum of 10 mm.  
+3. Move the core gradually from the zero position to a maximum of 20 mm.  
+4. Note the corresponding output voltage readings from the multimeter.  
+5. Plot a graph between displacement (mm) and output voltage (V).
 
-RESULT: - LVDT was studied well and graph of displacement was linear for a particular range.
+---
+
+## OBSERVATION TABLE  
+
+| Displacement (mm) | Output Voltage (V) |
+|------------------|-------------------|
+|         1         |         12.21          |
+|         2        |            24.34       |
+|         3        |         36.27          |
+|         4       |            47.94       |
+|         5        |          59.23        |
+|         6        |           70.07        |
+|         7        |            80.36       |
+|         8         |           90.01        |
+|         9         |            98.92       |
+|         10         |            107.00       |
+
+---
+
+## PRECAUTIONS  
+1. Multimeter readings should be noted carefully.  
+2. The core displacement should not exceed 20 mm.  
+3. Perform the experiment at normal room temperature for accurate results.  
+4. Ensure the power supply is 220 V ±10% at 50 Hz to avoid voltage hazards.
+
+---
+## SIMULATION
+
+<img width="1309" height="773" alt="Screenshot 2025-12-27 134819" src="https://github.com/user-attachments/assets/500878dd-f6d1-4391-bdf5-8683559d859d" />
+
+---
+## RESULT  
+The characteristics of the LVDT were studied. The graph between displacement and output voltage was found to be linear over a specific range of displacement.
