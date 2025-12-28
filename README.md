@@ -1,6 +1,6 @@
 # EXPERIMENT–6  
 ## CHARACTERISTICS OF LVDT  
-[Click here to check github submission](https://github.com/isravel-eng/EXP-2)
+[Click here to check github submission](https://github.com/isravel-eng/EXP-6)
 ---
 
 ## AIM  
